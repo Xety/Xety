@@ -4,12 +4,13 @@
 >
 > - 🔭 I’m currently in formation at [OpenClassRoom](https://openclassrooms.com).
 > - 🌱 Mainly backend developer with PHP and [Laravel](https://github.com/laravel/laravel), [Symfony](https://github.com/symfony/symfony) & [CakePHP](https://github.com/cakephp/cakephp).
-> - ⚡My personnal website :
+> - 👯 I have also worked/actually work with JavaScript, TypeScript, SASS, VueJS.
+> - ⚡My personnal website : https://github.com/XetaIO/Xetaravel
 > <p align="center">
 >  <img src="https://cloud.githubusercontent.com/assets/8210023/25557958/0e505c62-2d1d-11e7-8d19-86b569ee9874.png" alt="Xeta Logo" height="60"/>
 > </p>
 > <h2 align="center">Xetaravel</h2>
-> [xetaravel.com](https://xetaravel.com)
+> https://xetaravel.com is a resource to help people starting with Laravel. I have developed this site to try Laravel, and I have decided to release it to help people starting with Laravel, so there is probably some custom configurations/functions that only fit my needs.
 
 <!--
 **Xety/Xety** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
