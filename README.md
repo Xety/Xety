@@ -11,6 +11,8 @@
 > </p>
 > <h2 align="center">Xetaravel</h2>
 > https://xetaravel.com is a resource to help people starting with Laravel. I have developed this site to try Laravel, and I have decided to release it to help people starting with Laravel, so there is probably some custom configurations/functions that only fit my needs.
+> 
+> [![Xety's GitHub stats](https://github-readme-stats.vercel.app/api?username=xety)](https://github.com/xety)
 
 <!--
 **Xety/Xety** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
