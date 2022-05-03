@@ -6,11 +6,11 @@
 > - 🌱 Mainly backend developer with PHP and [Laravel](https://github.com/laravel/laravel), [Symfony](https://github.com/symfony/symfony) & [CakePHP](https://github.com/cakephp/cakephp).
 > - 👯 I have also worked/work with JavaScript, TypeScript, SASS, VueJS, WebPack, Redis...
 > - ⚡My personnal website : https://github.com/XetaIO/Xetaravel
+> 
 > <p align="center">
->  <img src="https://cloud.githubusercontent.com/assets/8210023/25557958/0e505c62-2d1d-11e7-8d19-86b569ee9874.png" alt="Xeta Logo" height="60"/>
+>   <img src="https://user-images.githubusercontent.com/8210023/166291618-ee2e2cca-3501-4f29-892f-de946e927f0f.png" alt="Xeta Logo" height="180"/>
 > </p>
-> <h2 align="center">Xetaravel</h2>
-> https://xetaravel.com is a resource to help people starting with Laravel. I have developed this site to try Laravel, and I have decided to release it to help people starting with Laravel, so there is probably some custom configurations/functions that only fit my needs.
+> https://xetaravel.com is a resource to help people starting with Laravel. I have developed this site to try Laravel, and I have decided to release it to help people starting with Laravel, so there is probably some custom configurations/functions that only fit my needs. Now i use this site for my personnal blog.
 >
 > ## 🏆 Profile's Stats
 >
