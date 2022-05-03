@@ -14,7 +14,7 @@
 >
 > ## 🏆 Profile's Stats
 >
-> [![Xety's GitHub stats](https://github-readme-stats.vercel.app/api?username=xety&count_private=true&show_icons=true&theme=onedark)](https://github.com/xety)
+> [![Xety's GitHub stats](https://github-readme-stats.vercel.app/api?username=xety&count_private=true&show_icons=true&theme=onedark&include_all_commits=true)](https://github.com/xety)
 > [![Xety Trophies](https://github-profile-trophy.vercel.app/?username=xety&no-frame=true&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 <!--
