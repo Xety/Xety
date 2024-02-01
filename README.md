@@ -1,6 +1,6 @@
 > ### Hi there 👋
 >
-> - 33 years and learning the development since 10+ years in autodidact.
+> - 34 years and learning the development since 10+ years in autodidact.
 >
 > - 🌱 Mainly backend developer with PHP and [Laravel](https://github.com/laravel/laravel), [Symfony](https://github.com/symfony/symfony) & [CakePHP](https://github.com/cakephp/cakephp).
 > - 👯 I have also worked/work with JavaScript, TypeScript, SASS, VueJS, WebPack, Redis...
