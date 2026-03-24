@@ -11,6 +11,12 @@
 </p>
 https://xetaravel.com is a resource to help people starting with Laravel. I have developed this site to try Laravel, and I have decided to release it to help people starting with Laravel, so there is probably some custom configurations/functions that only fit my needs. Now i use this site for my personnal blog.
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/XetaIO/XetaSuite-Core/main/.github/logos/logo-dark.svg#gh-dark-mode-only" alt="XetaSuite Logo" height="180"/>
+  <img src="https://raw.githubusercontent.com/XetaIO/XetaSuite-Core/main/.github/logos/logo.svg#gh-light-mode-only" alt="XetaSuite Logo" height="180"/>
+</p>
+[XetaSuite](https://xetasuite.xetaravel.com/) is a multi-tenant ERP (Enterprise Resource Planning) [open-source](https://github.com/XetaIO/XetaSuite-Core) designed for comprehensive facility, equipment, and inventory management. This professional solution enables businesses to efficiently manage their sites, zones, materials, stock, and interventions (maintenance, cleaning, incidents).
+
 ---
 ## 🛠️ Languages & Tools
 
