@@ -17,7 +17,7 @@
   <img src="https://raw.githubusercontent.com/XetaIO/XetaSuite-Core/main/.github/logos/logo.svg#gh-light-mode-only" alt="XetaSuite Logo" height="180"/>
 </p>
 
-[XetaSuite](https://xetasuite.xetaravel.com/) is a **multi-tenant ERP** (Enterprise Resource Planning) [open-source](https://github.com/XetaIO/XetaSuite-Core) designed for comprehensive facility, equipment, and inventory management. This professional solution enables businesses to efficiently manage their sites, zones, materials, stock, and interventions (maintenance, cleaning, incidents).
+[XetaSuite](https://xetasuite.com) is a **multi-tenant ERP** (Enterprise Resource Planning) [open-source](https://github.com/XetaSuite/Core) designed for comprehensive facility, equipment, and inventory management. This professional solution enables businesses to efficiently manage their sites, zones, materials, stock, and interventions (maintenance, cleaning, incidents).
 
 ---
 ## 🛠️ Languages & Tools
